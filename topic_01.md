@@ -7,7 +7,7 @@ It all comes down to one thing: creativity. AI is great at processing data, but 
 
 ## 逻辑拆解 (The Breakdown)
 
-1. 核心骨架 (The Core)
+### 1. 核心骨架 (The Core)
 
 文中有一句：“AI lacks the 'human spark' which drives true innovation.”
 
@@ -15,7 +15,7 @@ It all comes down to one thing: creativity. AI is great at processing data, but 
 
 标签： ...which drives true innovation. (驱动真正创新的 [火花])
 
-2. 逻辑锚点与核能动词
+### 2. 逻辑锚点与核能动词
 
 Given...：设定了“AI 崛起”的大背景。
 
@@ -42,7 +42,7 @@ Get away from：从枯燥重复的工作中“逃离”出来。
 
 ## 互动挑战
 
-**Q** In your opinion, in terms of learning English, what is the "human spark" that AI cannot replace?
+**Q:** In your opinion, in terms of learning English, what is the "human spark" that AI cannot replace?
 
 
-**A** That’s a great point. I think it all comes down to real emotional connection, which AI lacks.
+**A:** That’s a great point. I think it all comes down to real emotional connection, which AI lacks.
