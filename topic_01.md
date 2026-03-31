@@ -28,22 +28,21 @@ Get away from：从枯燥重复的工作中“逃离”出来。
 
 在这篇文章中，我用了一句：
 
-```
-By letting AI handle the boring tasks, we can get away from repetitive work...
-```
+
+**By letting AI handle the boring tasks, we can get away from repetitive work...**
+
 
 现在轮到你了：
 假设你想告诉你的朋友：“通过使用 AI 绘图（AI drawing），我可以摆脱（get away from）那种枯燥的修改工作。”
 
 试着用 Given 或者 By... 开头，把这句话拼出来。
 
-```
-Given the power of AI tools, I can get away from tedious manual work and focus on my ideas.
-```
+**Given the power of AI tools, I can get away from tedious manual work and focus on my ideas.**
+
 
 ## 互动挑战
 
-In your opinion, in terms of learning English, what is the "human spark" that AI cannot replace?
+**Q** In your opinion, in terms of learning English, what is the "human spark" that AI cannot replace?
 
 
-That’s a great point. I think it all comes down to real emotional connection, which AI lacks.
+**A** That’s a great point. I think it all comes down to real emotional connection, which AI lacks.
