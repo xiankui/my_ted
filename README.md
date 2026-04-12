@@ -5,4 +5,4 @@
 * [topic_03: You Are Not the Center of the Universe](https://github.com/xiankui/my_ted/blob/main/topic_03.md)
 * [topic_04: The FOMO Trap and Reverse Thinking](https://github.com/xiankui/my_ted/blob/main/topic_04.md)
 * [topic_05: Price vs. Intrinsic Value](https://github.com/xiankui/my_ted/blob/main/topic_05.md)
-* [The Art of Slow Living](https://github.com/xiankui/my_ted/blob/main/topic_06.md)
+* [topic_06: The Art of Slow Living](https://github.com/xiankui/my_ted/blob/main/topic_06.md)
