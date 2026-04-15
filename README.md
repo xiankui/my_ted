@@ -7,3 +7,4 @@
 * [topic_05: Price vs. Intrinsic Value](https://github.com/xiankui/my_ted/blob/main/topic_05.md)
 * [topic_06: The Art of Slow Living](https://github.com/xiankui/my_ted/blob/main/topic_06.md)
 * [topic_07: The Science of Mindfulness](https://github.com/xiankui/my_ted/blob/main/topic_07.md)
+* [topic_08: Building Your Emotional Resilience](https://github.com/xiankui/my_ted/blob/main/topic_08.md)
